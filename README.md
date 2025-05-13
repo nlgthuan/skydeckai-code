@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/burnworks-microcms-api-mcp-server-badge.png)](https://mseep.ai/app/burnworks-microcms-api-mcp-server)
+
 [![MSEEP Badge](https://mseep.net/pr/cyberchitta-scrapling-fetch-mcp-badge.jpg)](https://mseep.ai/app/cyberchitta-scrapling-fetch-mcp)
 
 
